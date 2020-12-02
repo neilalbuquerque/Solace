@@ -34,7 +34,7 @@
               <!-- link to books.php -->
               <li><a href="books.php"><span class="glyphicon glyphicon-book"></span>&nbsp; Books</a></li>
               <!-- link to contacts.php -->
-              <li><a href="contact.php"><span class="glyphicon glyphicon-phone-alt"></span>&nbsp; Contact</a></li>
+              <li><a href="contact.php"><span class="glyphicon glyphicon-list-alt"></span>&nbsp; Survey</a></li>
               <!-- link to shopping cart -->
               <li><a href="cart.php"><span class="glyphicon glyphicon-shopping-cart"></span>&nbsp; My Cart</a></li>
             </ul>

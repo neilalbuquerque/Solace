@@ -1,5 +1,5 @@
 <?php
-  $title = "Contact";
+  $title = "Website Survey";
   require_once "./template/header.php";
 ?>
     <div class="row">
